@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/arcleeds/2016-11-21-leeds"
-workshop_site   : "http://arcleeds.github.io/2016-11-21-leeds"
+workshop_repo   : "https://github.com/lgatto/2016-11-17-cam"
+workshop_site   : "https://lgatto.github.io/2016-11-17-cam/"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
@@ -14,8 +14,8 @@ swc_installer   : "http://files.software-carpentry.org/SWCarpentryInstaller.exe"
 dc_site        : "http://datacarpentry.org"
 dc_twitter     : "http://twitter.com/datacarpentry"
 #swc_vm          : "https://docs.google.com/uc?id=0B4Kr6DYkzkQtSTZLQzF4aVB4NDQ&export=download"
-dc_pre_survey   : "https://www.surveymonkey.com/r/dc_pre_workshop_v1"
-dc_post_survey  : "https://www.surveymonkey.com/r/dc_post_workshop_v1"
+# dc_pre_survey   : "https://www.surveymonkey.com/r/dc_pre_workshop_v1"
+# dc_post_survey  : "https://www.surveymonkey.com/r/dc_post_workshop_v1"
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
 #--------------------------------------------------------------------------------
