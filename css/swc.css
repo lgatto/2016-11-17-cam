@@ -515,7 +515,7 @@ dd {
 }
 
 .header.home {
-    background: url(../img/header.png) no-repeat center center;
+    /* background: url(../img/header.png) no-repeat center center; */
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -619,7 +619,7 @@ footer a, footer a:hover{
 }
 
 footer .container .links {
-    background:url('../img/software-carpentry-banner-white.png') no-repeat;
+    /* background:url('../img/software-carpentry-banner-white.png') no-repeat; */
     background-size: 200px;
     background-position: 0;
     min-height: 40px;
@@ -783,7 +783,7 @@ div.chapter h2 {
 	margin-top: 10px
     }
     footer .container .links {
-	background:url('../img/software-carpentry-banner-white.png') no-repeat;
+	/* background:url('../img/software-carpentry-banner-white.png') no-repeat; */
 	background-size: 180px;
 	background-position: 0;
     }
